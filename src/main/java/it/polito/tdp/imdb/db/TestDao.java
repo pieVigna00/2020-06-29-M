@@ -14,7 +14,6 @@ public class TestDao {
 		System.out.println("Movies:");
 		System.out.println(dao.listAllMovies());
 		System.out.println("Directors:");
-		System.out.println(dao.listAllDirectors());
 	}
 
 }
